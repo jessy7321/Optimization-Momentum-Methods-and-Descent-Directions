@@ -1,5 +1,7 @@
 # Optimization-Momentum-Methods-and-Descent-Directions
 A study on optimization techniques of Gradient Descent with Momentum for a specific convex function in consideration.
+<br> Language used: Python
+<br> Libraries: numpy, matplotlib, math
 
 Traditionally, gradient descent updates take the form
 <br>xk+1 = xk − αk∇F (xk). <br>We occasionally modify this by modifying the descent direction, whose rate is adjusted by α. 
