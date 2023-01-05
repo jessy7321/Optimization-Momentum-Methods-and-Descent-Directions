@@ -16,4 +16,4 @@ Momentum Methods include an additional descent direction term, whose rate is adj
 * Optimized Gradient Descent (variable alpha)
 * Vanilla Momentum (constant alpha, beta)
 * Optimized Momentum (variable alpha, beta)
-* Better Direction
+* Looking for a method with Better Direction
